@@ -1,0 +1,4388 @@
+[2025-06-11T00:37:16.495Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "IDUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.18951,
+      0.18995
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.18788,
+      0.18679,
+      0.1857
+    ],
+    "stopLoss": 0.1906,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932597962989375500,
+        "orderID": "1932597962989375488",
+        "symbol": "ID-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 4764.308,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.18971"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 4764.308,
+    "symbol": "IDUSDT",
+    "remainingQuantity": 2382.154,
+    "trailingData": {
+      "symbol": "IDUSDT",
+      "side": "BUY",
+      "quantity": 2382.154,
+      "direction": "SELL",
+      "entryPrice": 0.18951,
+      "takeProfits": [
+        0.18679,
+        0.1857
+      ],
+      "stopLoss": 0.1906
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T00:44:23.575Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "ANKRUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.01708,
+      0.01714
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.017,
+      0.01693,
+      0.01686
+    ],
+    "stopLoss": 0.01718,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932599753189625900,
+        "orderID": "1932599753189625856",
+        "symbol": "ANKR-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 52861.37,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.01708"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 52861.37,
+    "symbol": "ANKRUSDT",
+    "remainingQuantity": 26430.685,
+    "trailingData": {
+      "symbol": "ANKRUSDT",
+      "side": "BUY",
+      "quantity": 26430.685,
+      "direction": "SELL",
+      "entryPrice": 0.01708,
+      "takeProfits": [
+        0.01693,
+        0.01686
+      ],
+      "stopLoss": 0.01718
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T00:49:18.285Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "ATAUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.0504,
+      0.05059
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.0497,
+      0.04924,
+      0.04878
+    ],
+    "stopLoss": 0.05086,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932600992560320500,
+        "orderID": "1932600992560320512",
+        "symbol": "ATA-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 17877.801,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.0503"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 17877.801,
+    "symbol": "ATAUSDT",
+    "remainingQuantity": 8938.9005,
+    "trailingData": {
+      "symbol": "ATAUSDT",
+      "side": "BUY",
+      "quantity": 8938.9005,
+      "direction": "SELL",
+      "entryPrice": 0.0504,
+      "takeProfits": [
+        0.04924,
+        0.04878
+      ],
+      "stopLoss": 0.05086
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T00:51:18.966Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "XVSUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      6.733,
+      6.74851
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      6.67483,
+      6.63605,
+      6.59728
+    ],
+    "stopLoss": 6.77178,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 133.824,
+    "symbol": "XVSUSDT",
+    "remainingQuantity": 66.912,
+    "trailingData": {
+      "symbol": "XVSUSDT",
+      "side": "BUY",
+      "quantity": 66.912,
+      "direction": "SELL",
+      "entryPrice": 6.733,
+      "takeProfits": [
+        6.63605,
+        6.59728
+      ],
+      "stopLoss": 6.77178
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T00:57:28.488Z] ORDER_CREATED - Order 1932603044279619600
+{
+  "signal": {
+    "symbol": "FIOUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.01661,
+      0.01666
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.01644,
+      0.01632,
+      0.0162
+    ],
+    "stopLoss": 0.01673,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932603044279619600,
+        "orderID": "1932603044279619584",
+        "symbol": "FIO-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 54246.461,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.01656"
+      },
+      "orderId": 1932603044279619600
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 54246.461,
+    "symbol": "FIOUSDT",
+    "remainingQuantity": 27123.2305,
+    "trailingData": {
+      "symbol": "FIOUSDT",
+      "side": "BUY",
+      "quantity": 27123.2305,
+      "direction": "SELL",
+      "entryPrice": 0.01661,
+      "takeProfits": [
+        0.01632,
+        0.0162
+      ],
+      "stopLoss": 0.01673
+    }
+  },
+  "entryOrderId": 1932603044279619600,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T00:57:55.232Z] ORDER_CLOSED - Order 1932603044279619600
+{
+  "signal": {
+    "symbol": "FIOUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.01661,
+      0.01666
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.01644,
+      0.01632,
+      0.0162
+    ],
+    "stopLoss": 0.01673,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932603044279619600,
+        "orderID": "1932603044279619584",
+        "symbol": "FIO-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 54246.461,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.01656"
+      },
+      "orderId": 1932603044279619600
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 54246.461,
+    "symbol": "FIOUSDT",
+    "remainingQuantity": 27123.2305,
+    "trailingData": {
+      "symbol": "FIOUSDT",
+      "side": "BUY",
+      "quantity": 27123.2305,
+      "direction": "SELL",
+      "entryPrice": 0.01661,
+      "takeProfits": [
+        0.01632,
+        0.0162
+      ],
+      "stopLoss": 0.01673
+    }
+  },
+  "entryOrderId": 1932603044279619600,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T00:57:28.488Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T01:16:38.747Z] ORDER_CREATED - Order 1932607868677132300
+{
+  "signal": {
+    "symbol": "DIAUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.4465,
+      0.44771
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.44196,
+      0.43893,
+      0.43591
+    ],
+    "stopLoss": 0.44953,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932607868677132300,
+        "orderID": "1932607868677132288",
+        "symbol": "DIA-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2013.958,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.4456"
+      },
+      "orderId": 1932607868677132300
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 2013.958,
+    "symbol": "DIAUSDT",
+    "remainingQuantity": 1006.979,
+    "trailingData": {
+      "symbol": "DIAUSDT",
+      "side": "BUY",
+      "quantity": 1006.979,
+      "direction": "SELL",
+      "entryPrice": 0.4465,
+      "takeProfits": [
+        0.43893,
+        0.43591
+      ],
+      "stopLoss": 0.44953
+    }
+  },
+  "entryOrderId": 1932607868677132300,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T01:17:01.680Z] ORDER_CLOSED - Order 1932607868677132300
+{
+  "signal": {
+    "symbol": "DIAUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.4465,
+      0.44771
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.44196,
+      0.43893,
+      0.43591
+    ],
+    "stopLoss": 0.44953,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932607868677132300,
+        "orderID": "1932607868677132288",
+        "symbol": "DIA-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2013.958,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.4456"
+      },
+      "orderId": 1932607868677132300
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 2013.958,
+    "symbol": "DIAUSDT",
+    "remainingQuantity": 1006.979,
+    "trailingData": {
+      "symbol": "DIAUSDT",
+      "side": "BUY",
+      "quantity": 1006.979,
+      "direction": "SELL",
+      "entryPrice": 0.4465,
+      "takeProfits": [
+        0.43893,
+        0.43591
+      ],
+      "stopLoss": 0.44953
+    }
+  },
+  "entryOrderId": 1932607868677132300,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T01:16:38.746Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T02:42:03.408Z] ORDER_CREATED - Order 1932629345925337000
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932629345925337000,
+        "orderID": "1932629345925337088",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.948,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.557"
+      },
+      "orderId": 1932629345925337000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.948,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.474,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.474,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "entryOrderId": 1932629345925337000,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T02:42:05.355Z] ORDER_CLOSED - Order 1932629345925337000
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932629345925337000,
+        "orderID": "1932629345925337088",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.948,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.557"
+      },
+      "orderId": 1932629345925337000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.948,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.474,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.474,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "entryOrderId": 1932629345925337000,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T02:42:03.407Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T02:42:35.448Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932629345925337000,
+        "orderID": "1932629345925337088",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.948,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.557"
+      },
+      "orderId": 1932629345925337000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.948,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.474,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.474,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T02:42:13.978Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T02:51:45.769Z] ORDER_CREATED - Order 1932631788641849300
+{
+  "signal": {
+    "symbol": "NILUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.3857,
+      0.383
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.39679,
+      0.39985,
+      0.40291
+    ],
+    "stopLoss": 0.377,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932631788641849300,
+        "orderID": "1932631788641849344",
+        "symbol": "NIL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2334.199,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.3857"
+      },
+      "orderId": 1932631788641849300
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 2334.199,
+    "symbol": "NILUSDT",
+    "remainingQuantity": 1167.0995,
+    "trailingData": {
+      "symbol": "NILUSDT",
+      "side": "SELL",
+      "quantity": 1167.0995,
+      "direction": "BUY",
+      "entryPrice": 0.3857,
+      "takeProfits": [
+        0.39985,
+        0.40291
+      ],
+      "stopLoss": 0.377
+    }
+  },
+  "entryOrderId": 1932631788641849300,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T02:52:05.595Z] ORDER_CLOSED - Order 1932631788641849300
+{
+  "signal": {
+    "symbol": "NILUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.3857,
+      0.383
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.39679,
+      0.39985,
+      0.40291
+    ],
+    "stopLoss": 0.377,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932631788641849300,
+        "orderID": "1932631788641849344",
+        "symbol": "NIL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2334.199,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.3857"
+      },
+      "orderId": 1932631788641849300
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 2334.199,
+    "symbol": "NILUSDT",
+    "remainingQuantity": 1167.0995,
+    "trailingData": {
+      "symbol": "NILUSDT",
+      "side": "SELL",
+      "quantity": 1167.0995,
+      "direction": "BUY",
+      "entryPrice": 0.3857,
+      "takeProfits": [
+        0.39985,
+        0.40291
+      ],
+      "stopLoss": 0.377
+    }
+  },
+  "entryOrderId": 1932631788641849300,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T02:51:45.769Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T02:52:05.921Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "NILUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.3857,
+      0.383
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.39679,
+      0.39985,
+      0.40291
+    ],
+    "stopLoss": 0.377,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932631788641849300,
+        "orderID": "1932631788641849344",
+        "symbol": "NIL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2334.199,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.3857"
+      },
+      "orderId": 1932631788641849300
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 2334.199,
+    "symbol": "NILUSDT",
+    "remainingQuantity": 1167.0995,
+    "trailingData": {
+      "symbol": "NILUSDT",
+      "side": "SELL",
+      "quantity": 1167.0995,
+      "direction": "BUY",
+      "entryPrice": 0.3857,
+      "takeProfits": [
+        0.39985,
+        0.40291
+      ],
+      "stopLoss": 0.377
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T02:51:56.348Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T02:56:45.444Z] ORDER_CREATED - Order 1932633024619352000
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932633024619352000,
+        "orderID": "1932633024619352064",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.949,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.552"
+      },
+      "orderId": 1932633024619352000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.949,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.4745,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.4745,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "entryOrderId": 1932633024619352000,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T02:56:56.864Z] ORDER_CLOSED - Order 1932633024619352000
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932633024619352000,
+        "orderID": "1932633024619352064",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.949,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.552"
+      },
+      "orderId": 1932633024619352000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.949,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.4745,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.4745,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "entryOrderId": 1932633024619352000,
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T02:56:45.443Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T02:57:26.967Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "ATOMUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      4.585,
+      4.59466
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      4.54876,
+      4.52461,
+      4.50045
+    ],
+    "stopLoss": 4.60916,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932633024619352000,
+        "orderID": "1932633024619352064",
+        "symbol": "ATOM-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 196.949,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "4.552"
+      },
+      "orderId": 1932633024619352000
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 196.949,
+    "symbol": "ATOMUSDT",
+    "remainingQuantity": 98.4745,
+    "trailingData": {
+      "symbol": "ATOMUSDT",
+      "side": "BUY",
+      "quantity": 98.4745,
+      "direction": "SELL",
+      "entryPrice": 4.585,
+      "takeProfits": [
+        4.52461,
+        4.50045
+      ],
+      "stopLoss": 4.60916
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T02:57:00.928Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T02:58:06.016Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "DOODUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.00309,
+      0.00308
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.00313,
+      0.00315,
+      0.00318
+    ],
+    "stopLoss": 0.00306,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 291938.837,
+    "symbol": "DOODUSDT",
+    "remainingQuantity": 145969.4185,
+    "trailingData": {
+      "symbol": "DOODUSDT",
+      "side": "SELL",
+      "quantity": 145969.4185,
+      "direction": "BUY",
+      "entryPrice": 0.00309,
+      "takeProfits": [
+        0.00315,
+        0.00318
+      ],
+      "stopLoss": 0.00306
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ]
+}
+==================================================
+[2025-06-11T02:58:26.870Z] ORDER_CLOSED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "DOODUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.00309,
+      0.00308
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.00313,
+      0.00315,
+      0.00318
+    ],
+    "stopLoss": 0.00306,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 291938.837,
+    "symbol": "DOODUSDT",
+    "remainingQuantity": 145969.4185,
+    "trailingData": {
+      "symbol": "DOODUSDT",
+      "side": "SELL",
+      "quantity": 145969.4185,
+      "direction": "BUY",
+      "entryPrice": 0.00309,
+      "takeProfits": [
+        0.00315,
+        0.00318
+      ],
+      "stopLoss": 0.00306
+    }
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "stopOrderId": "SL_ID_NÃO_ENCONTRADO",
+  "tpOrderIds": [
+    "TP_ID_NÃO_ENCONTRADO"
+  ],
+  "createdAt": "2025-06-11T02:58:06.015Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T02:58:27.209Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "DOODUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.00309,
+      0.00308
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.00313,
+      0.00315,
+      0.00318
+    ],
+    "stopLoss": 0.00306,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {
+      "orderId": "SL_ID_NÃO_ENCONTRADO"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ID_NÃO_ENCONTRADO"
+      }
+    ],
+    "quantity": 291938.837,
+    "symbol": "DOODUSDT",
+    "remainingQuantity": 145969.4185,
+    "trailingData": {
+      "symbol": "DOODUSDT",
+      "side": "SELL",
+      "quantity": 145969.4185,
+      "direction": "BUY",
+      "entryPrice": 0.00309,
+      "takeProfits": [
+        0.00315,
+        0.00318
+      ],
+      "stopLoss": 0.00306
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T02:58:21.448Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T03:08:58.519Z] ORDER_CREATED - Order 1932636141649924000
+{
+  "signal": {
+    "symbol": "SXTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.10086,
+      0.10053
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.10211,
+      0.10294,
+      0.10377
+    ],
+    "stopLoss": 0.10003,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636141649924000,
+        "orderID": "1932636141649924096",
+        "symbol": "SXT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 8952.986,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.10059"
+      },
+      "orderId": 1932636141649924000
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 8952.986,
+    "symbol": "SXTUSDT",
+    "remainingQuantity": 4476.493,
+    "trailingData": {
+      "symbol": "SXTUSDT",
+      "side": "SELL",
+      "quantity": 4476.493,
+      "direction": "BUY",
+      "entryPrice": 0.10086,
+      "takeProfits": [
+        0.10294,
+        0.10377
+      ],
+      "stopLoss": 0.10003
+    }
+  },
+  "entryOrderId": 1932636141649924000,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:09:14.468Z] ORDER_CLOSED - Order 1932636141649924000
+{
+  "signal": {
+    "symbol": "SXTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.10086,
+      0.10053
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.10211,
+      0.10294,
+      0.10377
+    ],
+    "stopLoss": 0.10003,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636141649924000,
+        "orderID": "1932636141649924096",
+        "symbol": "SXT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 8952.986,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.10059"
+      },
+      "orderId": 1932636141649924000
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 8952.986,
+    "symbol": "SXTUSDT",
+    "remainingQuantity": 4476.493,
+    "trailingData": {
+      "symbol": "SXTUSDT",
+      "side": "SELL",
+      "quantity": 4476.493,
+      "direction": "BUY",
+      "entryPrice": 0.10086,
+      "takeProfits": [
+        0.10294,
+        0.10377
+      ],
+      "stopLoss": 0.10003
+    }
+  },
+  "entryOrderId": 1932636141649924000,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:08:58.519Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:09:14.808Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "SXTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.10086,
+      0.10053
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.10211,
+      0.10294,
+      0.10377
+    ],
+    "stopLoss": 0.10003,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636141649924000,
+        "orderID": "1932636141649924096",
+        "symbol": "SXT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 8952.986,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.10059"
+      },
+      "orderId": 1932636141649924000
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 8952.986,
+    "symbol": "SXTUSDT",
+    "remainingQuantity": 4476.493,
+    "trailingData": {
+      "symbol": "SXTUSDT",
+      "side": "SELL",
+      "quantity": 4476.493,
+      "direction": "BUY",
+      "entryPrice": 0.10086,
+      "takeProfits": [
+        0.10294,
+        0.10377
+      ],
+      "stopLoss": 0.10003
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T03:09:09.090Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T03:09:57.751Z] ORDER_CREATED - Order 1932636390225350700
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5097,
+      0.50813
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.50578,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636390225350700,
+        "orderID": "1932636390225350656",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1766.314,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5090"
+      },
+      "orderId": 1932636390225350700
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1766.314,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 883.157,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 883.157,
+      "direction": "BUY",
+      "entryPrice": 0.5097,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.50578
+    }
+  },
+  "entryOrderId": 1932636390225350700,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:10:14.543Z] ORDER_CLOSED - Order 1932636390225350700
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5097,
+      0.50813
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.50578,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636390225350700,
+        "orderID": "1932636390225350656",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1766.314,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5090"
+      },
+      "orderId": 1932636390225350700
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1766.314,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 883.157,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 883.157,
+      "direction": "BUY",
+      "entryPrice": 0.5097,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.50578
+    }
+  },
+  "entryOrderId": 1932636390225350700,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:09:57.751Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:10:15.722Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5097,
+      0.50813
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.50578,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932636390225350700,
+        "orderID": "1932636390225350656",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1766.314,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5090"
+      },
+      "orderId": 1932636390225350700
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1766.314,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 883.157,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 883.157,
+      "direction": "BUY",
+      "entryPrice": 0.5097,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.50578
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T03:10:08.315Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T03:22:13.750Z] ORDER_CREATED - Order 1932639450439880700
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5097,
+      0.50813
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.50578,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932639450439880700,
+        "orderID": "1932639450439880704",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1770.977,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5050"
+      },
+      "orderId": 1932639450439880700
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1770.977,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 885.4885,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 885.4885,
+      "direction": "BUY",
+      "entryPrice": 0.5097,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.50578
+    }
+  },
+  "entryOrderId": 1932639450439880700,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:22:13.964Z] ORDER_CREATED - Order 1932639448233676800
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5056,
+      0.502
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.498,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932639448233676800,
+        "orderID": "1932639448233676800",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1785.713,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5052"
+      },
+      "orderId": 1932639448233676800
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1785.713,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 892.8565,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 892.8565,
+      "direction": "BUY",
+      "entryPrice": 0.5056,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.498
+    }
+  },
+  "entryOrderId": 1932639448233676800,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:22:24.462Z] ORDER_CLOSED - Order 1932639450439880700
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5097,
+      0.50813
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.50578,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932639450439880700,
+        "orderID": "1932639450439880704",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1770.977,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5050"
+      },
+      "orderId": 1932639450439880700
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1770.977,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 885.4885,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 885.4885,
+      "direction": "BUY",
+      "entryPrice": 0.5097,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.50578
+    }
+  },
+  "entryOrderId": 1932639450439880700,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:22:13.749Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:22:24.992Z] ORDER_CLOSED - Order 1932639448233676800
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5056,
+      0.502
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.498,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932639448233676800,
+        "orderID": "1932639448233676800",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1785.713,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5052"
+      },
+      "orderId": 1932639448233676800
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1785.713,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 892.8565,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 892.8565,
+      "direction": "BUY",
+      "entryPrice": 0.5056,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.498
+    }
+  },
+  "entryOrderId": 1932639448233676800,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:22:13.963Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:22:25.357Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "DRIFTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.5056,
+      0.502
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.51558,
+      0.5195,
+      0.52342
+    ],
+    "stopLoss": 0.498,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932639448233676800,
+        "orderID": "1932639448233676800",
+        "symbol": "DRIFT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 1785.713,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.5052"
+      },
+      "orderId": 1932639448233676800
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 1785.713,
+    "symbol": "DRIFTUSDT",
+    "remainingQuantity": 892.8565,
+    "trailingData": {
+      "symbol": "DRIFTUSDT",
+      "side": "SELL",
+      "quantity": 892.8565,
+      "direction": "BUY",
+      "entryPrice": 0.5056,
+      "takeProfits": [
+        0.5195,
+        0.52342
+      ],
+      "stopLoss": 0.498
+    }
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T03:22:24.461Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T03:29:16.864Z] ORDER_CREATED - Order 1932641218666172400
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932641218666172400,
+        "orderID": "1932641218666172416",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.585,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1424"
+      },
+      "orderId": 1932641218666172400
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.585,
+    "symbol": "KERNELUSDT"
+  },
+  "entryOrderId": 1932641218666172400,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017",
+    "TP_ERRO_80017",
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:29:41.885Z] ORDER_CLOSED - Order 1932641218666172400
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932641218666172400,
+        "orderID": "1932641218666172416",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.585,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1424"
+      },
+      "orderId": 1932641218666172400
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.585,
+    "symbol": "KERNELUSDT"
+  },
+  "entryOrderId": 1932641218666172400,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017",
+    "TP_ERRO_80017",
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:29:16.864Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:29:42.208Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932641218666172400,
+        "orderID": "1932641218666172416",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.585,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1424"
+      },
+      "orderId": 1932641218666172400
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.585,
+    "symbol": "KERNELUSDT"
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T03:29:27.393Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T03:34:06.142Z] ORDER_CREATED - Order 1932642462524772400
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932642462524772400,
+        "orderID": "1932642462524772352",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.267,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1425"
+      },
+      "orderId": 1932642462524772400,
+      "status": "FILLED"
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.267,
+    "symbol": "KERNELUSDT"
+  },
+  "entryOrderId": 1932642462524772400,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017",
+    "TP_ERRO_80017",
+    "TP_ERRO_80017"
+  ]
+}
+==================================================
+[2025-06-11T03:34:14.681Z] ORDER_CLOSED - Order 1932642462524772400
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932642462524772400,
+        "orderID": "1932642462524772352",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.267,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1425"
+      },
+      "orderId": 1932642462524772400,
+      "status": "FILLED"
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.267,
+    "symbol": "KERNELUSDT"
+  },
+  "entryOrderId": 1932642462524772400,
+  "stopOrderId": "SL_ERRO_80017",
+  "tpOrderIds": [
+    "TP_ERRO_80017",
+    "TP_ERRO_80017",
+    "TP_ERRO_80017"
+  ],
+  "createdAt": "2025-06-11T03:34:06.142Z",
+  "status": "ACTIVE",
+  "tp1Executed": false,
+  "trailingActive": false
+}
+==================================================
+[2025-06-11T03:34:44.634Z] ORDER_CLOSED - Order LIMIT_ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "KERNELUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1423,
+      0.14192
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14373,
+      0.14468,
+      0.14564
+    ],
+    "stopLoss": 0.14135,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932642462524772400,
+        "orderID": "1932642462524772352",
+        "symbol": "KERNEL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 6344.267,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "",
+        "takeProfit": "",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1425"
+      },
+      "orderId": 1932642462524772400,
+      "status": "FILLED"
+    },
+    "stopOrder": {
+      "orderId": "SL_ERRO_80017"
+    },
+    "tpOrders": [
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      },
+      {
+        "orderId": "TP_ERRO_80017"
+      }
+    ],
+    "quantity": 6344.267,
+    "symbol": "KERNELUSDT"
+  },
+  "isSecondEntry": true,
+  "secondEntryOrderId": "LIMIT_ID_NÃO_ENCONTRADO",
+  "createdAt": "2025-06-11T03:34:17.429Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-11T18:47:33.868Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "SKYAIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.03697,
+      0.03683
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.03751
+    ],
+    "stopLoss": 0.03661,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932872348564721700,
+        "orderID": "1932872348564721664",
+        "symbol": "SKYAI-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 24415.995,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":24415.995,\"stopPrice\":0.03661,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":24415.995,\"stopPrice\":0.03751,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.03696"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 24415.995,
+    "symbol": "SKYAIUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T19:16:01.674Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "GHSUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.4183,
+      0.42
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.414
+    ],
+    "stopLoss": 0.428,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 2157.667,
+    "symbol": "GHSUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T19:16:58.085Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "GHSTUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.4183,
+      0.42
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.414
+    ],
+    "stopLoss": 0.428,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932879748231336000,
+        "orderID": "1932879748231335936",
+        "symbol": "GHST-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2157.667,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":2157.667,\"stopPrice\":0.428,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":2157.667,\"stopPrice\":0.414,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.4186"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 2157.667,
+    "symbol": "GHSTUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T19:22:49.337Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "YGGUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.1997,
+      0.2003
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.19744
+    ],
+    "stopLoss": 0.20121,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 4510.431,
+    "symbol": "YGGUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T19:27:45.720Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "VICUSDT",
+    "direction": "SELL",
+    "entryPrices": [
+      0.1817,
+      0.2003
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.1784
+    ],
+    "stopLoss": 0.22,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932882464416469000,
+        "orderID": "1932882464416468992",
+        "symbol": "VIC-USDT",
+        "positionSide": "SHORT",
+        "side": "SELL",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 4957.206,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":4957.206,\"stopPrice\":0.22,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":4957.206,\"stopPrice\":0.1784,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.1816"
+      },
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 4957.206,
+    "symbol": "VICUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T22:36:33.228Z] ORDER_CREATED - Order 1932929975650881500
+{
+  "signal": {
+    "symbol": "ZKJUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      1.994,
+      1.99299
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      1.9978
+    ],
+    "stopLoss": 1.99147,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932929975650881500,
+        "orderID": "1932929975650881536",
+        "symbol": "ZKJ-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 452.679,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":452.679,\"stopPrice\":1.99147,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":452.679,\"stopPrice\":1.9978,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "1.9955"
+      },
+      "orderId": 1932929975650881500
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 452.679,
+    "symbol": "ZKJUSDT"
+  },
+  "entryOrderId": 1932929975650881500,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T22:45:32.687Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "AXLUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.4749,
+      0.47299
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.48206
+    ],
+    "stopLoss": 0.47013,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 1896.88,
+    "symbol": "AXLUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T22:46:11.040Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "AXLUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.4749,
+      0.47299
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.48206
+    ],
+    "stopLoss": 0.47013,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 1896.88,
+    "symbol": "AXLUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T22:48:39.141Z] ORDER_CREATED - Order 1932933020434567200
+{
+  "signal": {
+    "symbol": "ANIMEUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.03021,
+      0.0301
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.0305
+    ],
+    "stopLoss": 0.02872,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932933020434567200,
+        "orderID": "1932933020434567168",
+        "symbol": "ANIME-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 29818.748,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":29818.748,\"stopPrice\":0.02872,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":29818.748,\"stopPrice\":0.0305,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.03033"
+      },
+      "orderId": 1932933020434567200
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 29818.748,
+    "symbol": "ANIMEUSDT"
+  },
+  "entryOrderId": 1932933020434567200,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T23:14:09.663Z] ORDER_CREATED - Order 1932939439871365000
+{
+  "signal": {
+    "symbol": "MASKUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      1.6488,
+      1.64057
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      1.67967
+    ],
+    "stopLoss": 1.62822,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932939439871365000,
+        "orderID": "1932939439871365120",
+        "symbol": "MASK-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 546.218,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":546.218,\"stopPrice\":1.62822,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":546.218,\"stopPrice\":1.67967,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "1.6492"
+      },
+      "orderId": 1932939439871365000
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 546.218,
+    "symbol": "MASKUSDT"
+  },
+  "entryOrderId": 1932939439871365000,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T23:19:58.901Z] ORDER_CREATED - Order 1932940904794951700
+{
+  "signal": {
+    "symbol": "SOPHUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0501,
+      0.04992
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.05078
+    ],
+    "stopLoss": 0.04964,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932940904794951700,
+        "orderID": "1932940904794951680",
+        "symbol": "SOPH-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 17973.249,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":17973.249,\"stopPrice\":0.04964,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":17973.249,\"stopPrice\":0.05078,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.050000"
+      },
+      "orderId": 1932940904794951700
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 17973.249,
+    "symbol": "SOPHUSDT"
+  },
+  "entryOrderId": 1932940904794951700,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T23:43:41.843Z] ORDER_CREATED - Order 1932946872983359500
+{
+  "signal": {
+    "symbol": "SWELLUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.00928,
+      0.00925
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.0094
+    ],
+    "stopLoss": 0.0092,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932946872983359500,
+        "orderID": "1932946872983359488",
+        "symbol": "SWELL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 97053.251,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":97053.251,\"stopPrice\":0.0092,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":97053.251,\"stopPrice\":0.0094,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.00930"
+      },
+      "orderId": 1932946872983359500
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 97053.251,
+    "symbol": "SWELLUSDT"
+  },
+  "entryOrderId": 1932946872983359500,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T23:56:22.712Z] ORDER_CREATED - Order 1932950063108067300
+{
+  "signal": {
+    "symbol": "PROMPTUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1893,
+      0.18867
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.19167
+    ],
+    "stopLoss": 0.18772,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932950063108067300,
+        "orderID": "1932950063108067328",
+        "symbol": "PROMPT-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 4747.971,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":4747.971,\"stopPrice\":0.18772,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":4747.971,\"stopPrice\":0.19167,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.18944"
+      },
+      "orderId": 1932950063108067300
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 4747.971,
+    "symbol": "PROMPTUSDT"
+  },
+  "entryOrderId": 1932950063108067300,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-11T23:59:52.577Z] ORDER_CREATED - Order 1932950944591384600
+{
+  "signal": {
+    "symbol": "ETHFIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      1.2745,
+      1.27037
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      1.28997
+    ],
+    "stopLoss": 1.26418,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932950944591384600,
+        "orderID": "1932950944591384576",
+        "symbol": "ETHFI-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 703.811,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":703.811,\"stopPrice\":1.26418,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":703.811,\"stopPrice\":1.28997,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "1.2750"
+      },
+      "orderId": 1932950944591384600
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 703.811,
+    "symbol": "ETHFIUSDT"
+  },
+  "entryOrderId": 1932950944591384600,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T00:31:24.489Z] ORDER_CREATED - Order ID_NÃO_ENCONTRADO
+{
+  "signal": {
+    "symbol": "XVSUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      6.559,
+      6.54912
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      6.59604
+    ],
+    "stopLoss": 6.53431,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": "ID_NÃO_ENCONTRADO"
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 137.574,
+    "symbol": "XVSUSDT"
+  },
+  "entryOrderId": "ID_NÃO_ENCONTRADO",
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T00:32:47.612Z] ORDER_CREATED - Order 1932959228278870000
+{
+  "signal": {
+    "symbol": "DFUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.04092,
+      0.04085
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.0412
+    ],
+    "stopLoss": 0.04073,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932959228278870000,
+        "orderID": "1932959228278870016",
+        "symbol": "DF-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 22051.59,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":22051.59,\"stopPrice\":0.04073,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":22051.59,\"stopPrice\":0.0412,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.04086"
+      },
+      "orderId": 1932959228278870000
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 22051.59,
+    "symbol": "DFUSDT"
+  },
+  "entryOrderId": 1932959228278870000,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T00:48:50.373Z] ORDER_CREATED - Order 1932963266349240300
+{
+  "signal": {
+    "symbol": "NILUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.3632,
+      0.36169
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.36888
+    ],
+    "stopLoss": 0.35942,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932963266349240300,
+        "orderID": "1932963266349240320",
+        "symbol": "NIL-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2479.473,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":2479.473,\"stopPrice\":0.35942,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":2479.473,\"stopPrice\":0.36888,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.3638"
+      },
+      "orderId": 1932963266349240300
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 2479.473,
+    "symbol": "NILUSDT"
+  },
+  "entryOrderId": 1932963266349240300,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T00:54:58.999Z] ORDER_CREATED - Order 1932964812680073200
+{
+  "signal": {
+    "symbol": "PHAUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1235,
+      0.12309
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.12503
+    ],
+    "stopLoss": 0.12248,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932964812680073200,
+        "orderID": "1932964812680073216",
+        "symbol": "PHA-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 7277.216,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":7277.216,\"stopPrice\":0.12248,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":7277.216,\"stopPrice\":0.12503,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.12356"
+      },
+      "orderId": 1932964812680073200
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 7277.216,
+    "symbol": "PHAUSDT"
+  },
+  "entryOrderId": 1932964812680073200,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T00:55:17.986Z] ORDER_CREATED - Order 1932964892342489000
+{
+  "signal": {
+    "symbol": "XLMUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.27724,
+      0.27683
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.27879
+    ],
+    "stopLoss": 0.2762,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932964892342489000,
+        "orderID": "1932964892342489088",
+        "symbol": "XLM-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 3235.223,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":3235.223,\"stopPrice\":0.2762,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":3235.223,\"stopPrice\":0.27879,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.27729"
+      },
+      "orderId": 1932964892342489000
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 3235.223,
+    "symbol": "XLMUSDT"
+  },
+  "entryOrderId": 1932964892342489000,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T01:03:11.595Z] ORDER_CREATED - Order 1932966878701949000
+{
+  "signal": {
+    "symbol": "SUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.3747,
+      0.37364
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.37868
+    ],
+    "stopLoss": 0.37205,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "order": {
+        "orderId": 1932966878701949000,
+        "orderID": "1932966878701948928",
+        "symbol": "S-USDT",
+        "positionSide": "LONG",
+        "side": "BUY",
+        "type": "MARKET",
+        "price": 0,
+        "quantity": 2393.782,
+        "stopPrice": 0,
+        "workingType": "MARK_PRICE",
+        "clientOrderID": "",
+        "clientOrderId": "",
+        "timeInForce": "GTC",
+        "priceRate": 0,
+        "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":2393.782,\"stopPrice\":0.37205,\"workingType\":\"MARK_PRICE\"}",
+        "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":2393.782,\"stopPrice\":0.37868,\"workingType\":\"MARK_PRICE\"}",
+        "reduceOnly": false,
+        "activationPrice": 0,
+        "closePosition": "",
+        "stopGuaranteed": "",
+        "status": "FILLED",
+        "avgPrice": "0.3743"
+      },
+      "orderId": 1932966878701949000
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 2393.782,
+    "symbol": "SUSDT"
+  },
+  "entryOrderId": 1932966878701949000,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T22:12:07.882Z] ORDER_CREATED - Order 1933286217560887300
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0846,
+      0.08428
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.08363,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933286217560887300,
+      "data": {
+        "order": {
+          "orderId": 1933286217560887300,
+          "orderID": "1933286217560887296",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10665.482,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10665.482,\"stopPrice\":0.08363,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10665.482,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0845",
+          "executedQty": "10665.48"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10665.482,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933286217560887300,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T22:31:12.466Z] ORDER_CREATED - Order 1933291018247999500
+{
+  "signal": {
+    "symbol": "EDUUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1365,
+      0.1355
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.14192
+    ],
+    "stopLoss": 0.13,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933291018247999500,
+      "data": {
+        "order": {
+          "orderId": 1933291018247999500,
+          "orderID": "1933291018247999488",
+          "symbol": "EDU-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 6596.705,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":6596.705,\"stopPrice\":0.13,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":6596.705,\"stopPrice\":0.14192,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.1369",
+          "executedQty": "6597"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 6596.705,
+    "symbol": "EDUUSDT"
+  },
+  "entryOrderId": 1933291018247999500,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T23:07:59.849Z] ORDER_CREATED - Order 1933300276599459800
+{
+  "signal": {
+    "symbol": "PLUMEUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1058,
+      0.10535
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.10782
+    ],
+    "stopLoss": 0.10445,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933300276599459800,
+      "data": {
+        "order": {
+          "orderId": 1933300276599459800,
+          "orderID": "1933300276599459840",
+          "symbol": "PLUME-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 8512.419,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":8512.419,\"stopPrice\":0.10445,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":8512.419,\"stopPrice\":0.10782,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.10591",
+          "executedQty": "8512.42"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 8512.419,
+    "symbol": "PLUMEUSDT"
+  },
+  "entryOrderId": 1933300276599459800,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-12T23:08:04.004Z] ORDER_CLOSED - Order 1933300276599459800
+{
+  "signal": {
+    "symbol": "PLUMEUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.1058,
+      0.10535
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.10782
+    ],
+    "stopLoss": 0.10445,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933300276599459800,
+      "data": {
+        "order": {
+          "orderId": 1933300276599459800,
+          "orderID": "1933300276599459840",
+          "symbol": "PLUME-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 8512.419,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":8512.419,\"stopPrice\":0.10445,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":8512.419,\"stopPrice\":0.10782,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.10591",
+          "executedQty": "8512.42"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 8512.419,
+    "symbol": "PLUMEUSDT"
+  },
+  "entryOrderId": 1933300276599459800,
+  "tpOrderIds": [],
+  "createdAt": "2025-06-12T23:07:59.849Z",
+  "status": "ACTIVE"
+}
+==================================================
+[2025-06-13T00:22:47.883Z] ORDER_CREATED - Order 1933319083485302800
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0846,
+      0.08428
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.08363,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933319083485302800,
+      "data": {
+        "order": {
+          "orderId": 1933319083485302800,
+          "orderID": "1933319083485302784",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10663.246,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10663.246,\"stopPrice\":0.08363,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10663.246,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0845",
+          "executedQty": "10663.25"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10663.246,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933319083485302800,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-13T00:22:58.788Z] ORDER_CLOSED - Order 1933319083485302800
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0846,
+      0.08428
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.08363,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933319083485302800,
+      "data": {
+        "order": {
+          "orderId": 1933319083485302800,
+          "orderID": "1933319083485302784",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10663.246,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10663.246,\"stopPrice\":0.08363,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10663.246,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0845",
+          "executedQty": "10663.25"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10663.246,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933319083485302800,
+  "tpOrderIds": [],
+  "createdAt": "2025-06-13T00:22:47.809Z",
+  "status": "ACTIVE",
+  "trailingStop": {
+    "isActive": true,
+    "trailPercentage": 0.005,
+    "currentStopPrice": 0.0856297,
+    "intervalId": {
+      "_idleTimeout": -1,
+      "_idlePrev": null,
+      "_idleNext": null,
+      "_idleStart": 1244951,
+      "_onTimeout": null,
+      "_repeat": 5000,
+      "_destroyed": true
+    }
+  }
+}
+==================================================
+[2025-06-13T01:05:17.577Z] ORDER_CREATED - Order 1933329795045658600
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0846,
+      0.084
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.083,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933329795045658600,
+      "data": {
+        "order": {
+          "orderId": 1933329795045658600,
+          "orderID": "1933329795045658624",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10662.762,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10662.762,\"stopPrice\":0.083,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10662.762,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0843",
+          "executedQty": "10662.76"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10662.762,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933329795045658600,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-13T01:05:29.145Z] ORDER_CLOSED - Order 1933329795045658600
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0846,
+      0.084
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.083,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933329795045658600,
+      "data": {
+        "order": {
+          "orderId": 1933329795045658600,
+          "orderID": "1933329795045658624",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10662.762,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10662.762,\"stopPrice\":0.083,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10662.762,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0843",
+          "executedQty": "10662.76"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10662.762,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933329795045658600,
+  "tpOrderIds": [],
+  "createdAt": "2025-06-13T01:05:17.577Z",
+  "status": "ACTIVE",
+  "trailingStop": {
+    "isActive": true,
+    "trailPercentage": 0.005,
+    "currentStopPrice": 0.0856297,
+    "intervalId": {
+      "_idleTimeout": -1,
+      "_idlePrev": null,
+      "_idleNext": null,
+      "_idleStart": 69967,
+      "_onTimeout": null,
+      "_repeat": 5000,
+      "_destroyed": true
+    }
+  }
+}
+==================================================
+[2025-06-13T01:48:57.409Z] ORDER_CREATED - Order 1933340783417495600
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0829,
+      0.0826
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.081,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933340783417495600,
+      "data": {
+        "order": {
+          "orderId": 1933340783417495600,
+          "orderID": "1933340783417495552",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10878.794,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10878.794,\"stopPrice\":0.081,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10878.794,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0830",
+          "executedQty": "10878.79"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10878.794,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933340783417495600,
+  "tpOrderIds": []
+}
+==================================================
+[2025-06-13T01:49:05.458Z] ORDER_CLOSED - Order 1933340783417495600
+{
+  "signal": {
+    "symbol": "CATIUSDT",
+    "direction": "BUY",
+    "entryPrices": [
+      0.0829,
+      0.0826
+    ],
+    "leverage": 5,
+    "takeProfits": [
+      0.08606
+    ],
+    "stopLoss": 0.081,
+    "isValid": true
+  },
+  "result": {
+    "success": true,
+    "entryOrder": {
+      "orderId": 1933340783417495600,
+      "data": {
+        "order": {
+          "orderId": 1933340783417495600,
+          "orderID": "1933340783417495552",
+          "symbol": "CATI-USDT",
+          "positionSide": "LONG",
+          "side": "BUY",
+          "type": "MARKET",
+          "price": 0,
+          "quantity": 10878.794,
+          "stopPrice": 0,
+          "workingType": "MARK_PRICE",
+          "clientOrderID": "",
+          "clientOrderId": "",
+          "timeInForce": "GTC",
+          "priceRate": 0,
+          "stopLoss": "{\"type\":\"STOP_MARKET\",\"quantity\":10878.794,\"stopPrice\":0.081,\"workingType\":\"MARK_PRICE\"}",
+          "takeProfit": "{\"type\":\"TAKE_PROFIT_MARKET\",\"quantity\":10878.794,\"stopPrice\":0.08606,\"workingType\":\"MARK_PRICE\"}",
+          "reduceOnly": false,
+          "activationPrice": 0,
+          "closePosition": "",
+          "stopGuaranteed": "",
+          "status": "FILLED",
+          "avgPrice": "0.0830",
+          "executedQty": "10878.79"
+        }
+      },
+      "success": true
+    },
+    "stopOrder": {},
+    "tpOrders": [],
+    "quantity": 10878.794,
+    "symbol": "CATIUSDT"
+  },
+  "entryOrderId": 1933340783417495600,
+  "tpOrderIds": [],
+  "createdAt": "2025-06-13T01:48:57.408Z",
+  "status": "ACTIVE",
+  "trailingStop": {
+    "isActive": true,
+    "trailPercentage": 0.005,
+    "currentStopPrice": 0.0856297,
+    "intervalId": {
+      "_idleTimeout": -1,
+      "_idlePrev": null,
+      "_idleNext": null,
+      "_idleStart": 182245,
+      "_onTimeout": null,
+      "_repeat": 5000,
+      "_destroyed": true
+    }
+  }
+}
+==================================================
